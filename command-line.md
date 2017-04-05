@@ -1,0 +1,2 @@
+The command line is a text interface for your computer. It is a program that takes in commands, which it passes on the computer's operating system to run.
+pwd - show where you are; cd - change directory/folder; ls - show what you have in your directory; rmdir - remove directory; cp - copy directory; find - find files; grep - find things inside files; rm - delet a file; touch - make a new file inside working/present directory; exit - get out of terminal/program
